@@ -1,0 +1,18 @@
+
+.group-user-list-container{
+    .user-list-header{
+        margin-bottom:1em;
+    }
+    #group-user-list{
+        .list{
+            list-style:none;
+            margin:0px;
+            padding:0px;
+        }
+    }
+}
+
+.interactive-group-container{
+    display:flex;
+    flex-wrap: wrap;
+}
